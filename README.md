@@ -1,5 +1,5 @@
 ### Belly Button Biodiversity
-![bbb](Images/bbb.jpg)
+![bbb](bbb.jpg)
 
 Used Flask to design an API for the Belly Button Biodiversity Dataset and to serve the HTML and Javascript required for a dashboard page. Used Plotly to build interactive charts for the dashboard.
 
@@ -13,4 +13,4 @@ Languages and Tools:
 - Bootstrap
 - Plotly
 
-![bbb1](Images/bbb1.png)
+![bbb](bbb.png)
